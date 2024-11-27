@@ -19,6 +19,13 @@ public class testPackage {
         NewClass prueba= new NewClass();
         prueba.mostrartxt();
         
+        
+        
+        
+        
+        
+        
+        
         System.out.println("OOOOOOO");
     }
 }
