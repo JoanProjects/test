@@ -20,5 +20,15 @@ public class testPackage {
         
         NewClass prueba= new NewClass();
         prueba.mostrartxt();
+        
+        
+        
+        
+        
+        
+        
+        
+       
+        
     }
 }
