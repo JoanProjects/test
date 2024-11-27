@@ -12,6 +12,9 @@ public class testPackage {
         System.out.println("Hello");
         System.out.println("Hello Hello is me");
         System.out.println("Como estan??");
+        System.out.println("Is me");
+        System.out.println("Hello");
+        System.out.println("dsadsadasdasdadsdasdas");
         
         NewClass prueba= new NewClass();
         prueba.mostrartxt();
