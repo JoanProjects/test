@@ -12,5 +12,8 @@ public class testPackage {
         System.out.println("Hello");
         System.out.println("Hello Hello is me");
         System.out.println("Como estan??");
+        
+        NewClass prueba= new NewClass();
+        prueba.mostrartxt();
     }
 }

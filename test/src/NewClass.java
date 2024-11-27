@@ -15,6 +15,14 @@ FTL stack trace ("~" means nesting-related):
 ----
  */
 public class NewClass {
+    
+    String txt="Holaaaaa";
+    public NewClass(){}
+    
+    public void mostrartxt(){
+        System.out.println(txt);
+    }
+    
 
     
 }
