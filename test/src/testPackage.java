@@ -15,6 +15,8 @@ public class testPackage {
         System.out.println("Is me");
         System.out.println("Hello");
         System.out.println("dsadsadasdasdadsdasdas");
+        System.out.println("SDXDDDDD");
+        System.out.println("SADDSASDSADDASDASDASDASDAS");
         
         NewClass prueba= new NewClass();
         prueba.mostrartxt();
