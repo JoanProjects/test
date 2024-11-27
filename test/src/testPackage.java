@@ -28,7 +28,6 @@ public class testPackage {
        
         
         
-        System.out.println("SDXDDDDD");
-        System.out.println("SADDSASDSADDASDASDASDASDAS");
+        
     }
 }
